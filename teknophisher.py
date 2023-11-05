@@ -122,7 +122,7 @@ info2  =   f"{green}[{white}•{green}] {purple}"
 # Modifying this could be potentially dangerous
 logo = f"""
 {red}   +++++++++++++++
-{yellow}   TEKNOPHİEHER
+{yellow}   TEKNOPHİSHER
 {blue}   +++++++++++++++
 {cyan}{" "*36}[{green}Üreten TeknoDroid{cyan}]
 """
